@@ -9,7 +9,7 @@ How to run the code:
 The environment for the robot and the obstacles in a 2D grid based environment.
 The custom grid environment has been shown below.
 
-![2D Environment with start and goal](./initial.png)
+![2D Environment with start and goal](./initial.gif)
 
 
 ## *Simulation of the Dijkstra's algorithm *
