@@ -12,7 +12,7 @@ The custom grid environment has been shown below.
 ![2D Environment with start and goal](./initial.gif)
 
 
-## *Simulation of the Dijkstra's algorithm *
+## * Simulation of the Dijkstra's algorithm *
 The red nodes denoted visited nodes. The blue denote explored nodes and the green and yellow nodes denotes start and goal nodes.
 
 The following gif shows how the nodes are visited and the planned path.
